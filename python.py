@@ -1,0 +1,2 @@
+s = "nikhil"
+print(s)
