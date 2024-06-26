@@ -1,2 +1,0 @@
-s = "nikhil"
-print(s)
